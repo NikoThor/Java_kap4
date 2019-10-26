@@ -1,5 +1,4 @@
 package Opgave_05_230;
-
 import java.util.Scanner;
 
 public class Opgave_05_30 {
