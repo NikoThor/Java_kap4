@@ -1,6 +1,4 @@
 package Opgave_5_22;
-
-import java.io.PrintStream;
 import java.util.Scanner;
 
 public class Opgave522 {
